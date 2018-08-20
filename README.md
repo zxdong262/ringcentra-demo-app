@@ -7,7 +7,7 @@ git clone git@github.com:zxdong262/ringcentra-demo-app.git
 cd ringcentra-demo-app
 npm i
 cp config.sample.js config.js
-# edit config.js, fill all required fields
+# edit config.js, fill all required fields, get it from your app panel.
 npm start
 ```
 
