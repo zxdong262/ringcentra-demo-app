@@ -9,5 +9,12 @@ npm i
 npm start
 ```
 
+## output
+```
+start auth
+start call
+First status: InProgress
+```
+
 ## License
 MIT
