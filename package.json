@@ -1,0 +1,28 @@
+{
+  "name": "ringcentra-demo-app",
+  "version": "0.0.1",
+  "description": "RingCentra demo app with js sdk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxdong262/ringcentra-demo-app.git"
+  },
+  "keywords": [
+    "RingCentra",
+    "js",
+    "sdk"
+  ],
+  "author": "ZHAO Xudong <zxdong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxdong262/ringcentra-demo-app/issues"
+  },
+  "homepage": "https://github.com/zxdong262/ringcentra-demo-app#readme",
+  "dependencies": {
+    "form-data": "2.3.2",
+    "ringcentral": "3.2.0"
+  }
+}
